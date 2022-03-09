@@ -1,6 +1,8 @@
+import Navbar from "./components/Navbar/Navbar";
+
 function App() {
   return (
-    <h1>Projeto Limpo</h1>
+    <Navbar />
   );
 }
 
