@@ -44,7 +44,7 @@ public class ScoreService {
 		
 		double sum = 0.0;
 		for (Score s : movie.getScores()) {
-			sum =+ s.getValue();
+			sum = sum + s.getValue();
 		}
 		
 		double avg = sum / movie.getScores().size();
