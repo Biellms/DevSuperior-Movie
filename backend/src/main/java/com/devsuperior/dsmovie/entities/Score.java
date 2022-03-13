@@ -21,7 +21,7 @@ public class Score {
 	// Getters and Setters
 	public void setMovie(Movie movie) { id.setMovie(movie); }
 	
-	public void serUser(User user) { id.setUser(user); }
+	public void setUser(User user) { id.setUser(user); }
 	
 	public ScorePK getId() { return id; }
 
