@@ -1,7 +1,7 @@
+import Navbar from "components/Navbar/Navbar";
 import Form from "pages/form/Form";
 import Listing from "pages/listing/Listing";
 import { BrowserRouter, Routes, Route} from "react-router-dom";
-import Navbar from "./components/navbar/Navbar";
 
 function App() {
   return (
