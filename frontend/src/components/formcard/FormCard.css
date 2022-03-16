@@ -54,4 +54,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-color: var(--color-primary);
+}
+
+.dsmovie-btn:hover {
+    transition: 500ms;
+    background-color: #8b2222;
+    border-color: #8b2222;
 }

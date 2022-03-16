@@ -24,6 +24,7 @@ function Pagination( { page, onChange } : Props) {
                 </button>
             </div>
         </div>
+        
     );
 }
 

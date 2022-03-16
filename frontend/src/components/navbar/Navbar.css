@@ -24,7 +24,17 @@ header {
 }
 
 .dsmovie-contact-link {
-    margin: 0 0 0 15px ;
-    font-size: 16px;
+    margin: 0 15px 0 0 ;
+    font-size: 15px;
     font-weight: 550;
+}
+
+.personIcon {
+    width: 30px;
+    filter: invert(100%);
+}
+
+.personIcon:hover {
+    transition: 300ms;
+    filter: invert(50%);
 }

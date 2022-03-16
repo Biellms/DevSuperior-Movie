@@ -1,0 +1,33 @@
+footer {
+    background-color: var(--color-primary);
+    padding-top: 50px;
+    color: white;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.github {
+    width: 1cm;
+    margin-left: 10px;
+}
+
+.github:hover {
+    transition: 300ms;
+    filter: invert(50%);
+}
+
+.linkedin {
+    width: 1cm;
+    margin-right: 10px;
+}
+
+.linkedin:hover {
+    transition: 300ms;
+    filter: brightness(65%);
+}
+
+.copy-bottom {
+    background-color: brown;
+}
