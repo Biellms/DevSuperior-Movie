@@ -6,7 +6,9 @@ function Form() {
     const params = useParams();
 
     return (
-        <FormCard movieId={`${params.movieId}`} />
+        <div className='mt-4 mb-3 py-3'>
+            <FormCard movieId={`${params.movieId}`} />
+        </div>
     );
 }
 

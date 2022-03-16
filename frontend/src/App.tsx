@@ -13,6 +13,7 @@ function App() {
 
     <BrowserRouter>
     
+    <section>
       <Navbar />
 
         <Routes>
@@ -26,7 +27,7 @@ function App() {
         </Routes>
 
       <Footer />
-
+      </section>
     </BrowserRouter>
     
   );
