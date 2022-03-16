@@ -16,7 +16,7 @@ function Footer() {
 
                     <div className="col-md-6 mt-md-0 mb-6">
                         <h5 >Contato</h5>
-                        <a href="https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/">
+                        <a href="https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/" target='_blank' rel="noreferrer">
                             <LinkedIn className='linkedin' />
                         </a>
                         <a href="https://github.com/Biellms/DevSuperior-Movie" target='_blank' rel="noreferrer">
@@ -27,7 +27,7 @@ function Footer() {
             </div>
 
             <div className="copy-bottom text-center py-2">
-                <a href=""> Desenvolvedor: Gabriel Mendes © 2022</a>
+                <a href="https://github.com/Biellms" target='_blank' rel="noreferrer"> Desenvolvedor: Gabriel Mendes © 2022</a>
             </div>
 
         </footer>
