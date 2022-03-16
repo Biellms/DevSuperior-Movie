@@ -10,7 +10,7 @@ function Footer() {
                 <div className="row">
                     <div className="col-md-6 mt-md-0 mt-6">
                         <h5 >Dev Superior</h5>
-                        <p className='mx-3'>Semana Spring React 7.0 - App completo com as tecnologias mais demandadas do mercado, como: Java,
+                        <p className='mx-5'>Semana Spring React 7.0 - App completo com as tecnologias mais demandadas do mercado, como: Java,
                             Spring, React, Typescript.</p>
                     </div>
 

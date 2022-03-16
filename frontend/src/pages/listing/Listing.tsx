@@ -35,10 +35,10 @@ function Listing() {
 
     return (
 
-        <>
+        <div className="py-4">
             <Pagination page={page} onChange={handlePageChange}/>
 
-            <div className="container pb-3">
+            <div className="container">
                 <div className="row">
                     {page.content.map(movie => (
                         <div key={movie.id} className="col-sm-6 col-lg-4 col-xl-3 mb-4">
@@ -47,7 +47,7 @@ function Listing() {
                     ))}
                 </div>
             </div>
-        </>
+        </div>
 
     );
 }
