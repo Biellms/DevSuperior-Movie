@@ -17,10 +17,10 @@ A aplicação consiste em uma página web, onde o front-end foi desenvolvido com
 <div align = "center">
   <hr>
   <h3><p><b>Paginas</b></p>
-  <img width="1250px" src="./documentação/DSMovie.pdf"/><br>
-  <img width="1250px" src="./documentação/DSMovieAvaliar.pdf"/><br>
-  <img width="1250px" src="./documentação/DSMovieAvaliarResp.pdf"/><br>
-  <img width="1250px" src="./documentação/DSMovieResp.pdf"/><br>
+  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovie.pdf"/><br>
+  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovieAvaliar.pdf"/><br>
+  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovieAvaliarResp.pdf"/><br>
+  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovieResp.pdf"/><br>
   <h3><p><b>Diagrama</b></p>
   <img width="1250px" src="./documentação/MCdsmovie.png"/><br>
     <hr>
