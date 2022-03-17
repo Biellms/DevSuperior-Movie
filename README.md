@@ -17,12 +17,12 @@ A aplicação consiste em uma página web, onde o front-end foi desenvolvido com
 <div align = "center">
   <hr>
   <h3><p><b>Paginas</b></p>
-  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovie.pdf"/><br>
-  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovieAvaliar.pdf"/><br>
-  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovieAvaliarResp.pdf"/><br>
-  <img width="1250px" src="https://github.com/Biellms/DevSuperior-Movie/blob/main/documentação/DSMovieResp.pdf"/><br>
+  <img width="700px" src="./documentação/DSMovie.jpg"/><br>
+  <img width="700px" src="./documentação/DSMovieAvaliar.jpg"/><br>
+  <img width="200px" src="./documentação/DSMovieAvaliarResp.jpg"/>
+  <img width="200px" src="./documentação/DSMovieResp.jpg"/><br>
   <h3><p><b>Diagrama</b></p>
-  <img width="1250px" src="./documentação/MCdsmovie.png"/><br>
+  <img width="500px" src="./documentação/MCdsmovie.png"/><br>
     <hr>
   </div>
 
@@ -31,7 +31,7 @@ A aplicação consiste em uma página web, onde o front-end foi desenvolvido com
 
 - <img align="center" alt="Biell-Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/> Java
 - <img align="center" alt="Biell-Spring" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> Spring
-- <img align="center" alt="Biell-C" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React
+- <img align="" alt="Biell-C" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React
 - <img align="center" alt="Biell-C" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript
 - <img align="center" alt="Biell-C" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
 - <img align="center" alt="Biell-MySQL" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSql
