@@ -20,7 +20,6 @@ A aplicação consiste em uma página web, onde o front-end foi desenvolvido com
   <img width="700px" src="./documentação/DSMovie.jpg"/><br>
   <img width="700px" src="./documentação/DSMovieAvaliar.jpg"/><br>
   <img width="200px" src="./documentação/DSMovieAvaliarResp.jpg"/>
-  <img width="200px" src="./documentação/DSMovieResp.jpg"/><br>
   <h3><p><b>Diagrama</b></p>
   <img width="500px" src="./documentação/MCdsmovie.png"/><br>
     <hr>
