@@ -17,11 +17,12 @@ A aplicação consiste em uma página web, onde o front-end foi desenvolvido com
 <div align = "center">
   <hr>
   <h3><p><b>Paginas</b></p>
-  <img width="900px" src="./documentação/DSMovie.jpg"/><br>
-  <img width="900px" src="./documentação/DSMovieAvaliar.jpg"/><br>
-  <img width="250px" src="./documentação/DSMovieAvaliarResp.jpg"/>
-  <h3><p><b>Diagrama</b></p>
-  <img width="700px" src="./documentação/MCdsmovie.png"/><br>
+  <img width="700px" src="./documentação/DSMovie.jpg"/><br>
+  <img width="700px" src="./documentação/DSMovieAvaliar.jpg"/><br>
+  <img width="200px" src="./documentação/DSMovieAvaliarResp.jpg"/><br>
+  <hr>
+  <h3><p><b>Modelo Conceitual</b></p>
+  <img width="500px" src="./documentação/MCdsmovie.png"/><br>
     <hr>
   </div>
 
@@ -37,3 +38,7 @@ A aplicação consiste em uma página web, onde o front-end foi desenvolvido com
 - <img align="center" alt="Biell-Vscode" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> Visual Studio Code
 
 - <img align="center" alt="Biell-Git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git
+
+#
+
+#### **Desenvolvedor: [Gabriel Mendes ](https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/)**
