@@ -4,6 +4,7 @@
   </h3>
   Semana Spring React 7.0 - App completo com as tecnologias mais demandadas do mercado, como: Java, Spring, React, Typescript.
   </div>
+  <b><a href="https://learn.devsuperior.com/certificados/2454863" target="_blank"><p target="blank">• Certificado 🏆</a></b>
 
 <hr>
 
