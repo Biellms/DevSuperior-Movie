@@ -11,7 +11,7 @@
 ### • **Sobre**
 DSMovie é uma aplicação full-stack web e mobile desenvolvida durante a **Semana Spring React 7.0**, evento organizado pela **[DevSuperior](https://devsuperior.com)**.
 
-A aplicação consiste em uma página web, onde o front-end foi desenvolvido com React. E a listagem de filmes com um sistema de score, onde o back-end foi desenvolvido com spring. A página permite a interação dos usuários através das avaliações dos filmes listados.
+A aplicação consiste em uma página web, onde o front-end foi desenvolvido com React. E a listagem de filmes com um sistema de score, da qual o back-end foi desenvolvido com spring. A página permite a interação dos usuários através das avaliações dos filmes listados.
 
 **[Clique aqui para acessar o deploy](https://bielldsmovie.netlify.app)** (O back-end está hospedado no Heroku, então há um intervalo para aparecer a listagem)
 
